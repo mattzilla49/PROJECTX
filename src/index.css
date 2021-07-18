@@ -1,0 +1,109 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+#hi{
+  background-color: black;
+  color: lime;
+  font-size: 50px;
+}
+#a{
+  background-color: black;
+  color:blue ;
+  font-size: 50px;
+}
+#b{
+  background-color: black;
+  color:greenyellow ;
+  font-size: 50px;
+}
+#c{
+  background-color: black;
+  color:yellow ;
+  font-size: 50px;
+}
+#d{
+  background-color: black;
+  color: orangered;
+  font-size: 50px;
+}
+#e{
+  background-color: black;
+  color: red;
+  font-size: 50px;
+}
+#f{
+  background-color: black;
+  color: violet;
+  font-size: 50px;
+}
+#g{
+  background-color: black;
+  color: purple;
+  font-size: 50px;
+}
+#h{
+  background-color: black;
+  color: pink;
+  font-size: 50px;
+}
+#i{
+  background-color: black;
+  color: burlywood;
+  font-size: 50px;
+}
+#j{
+  background-color: black;
+  color: rebeccapurple;
+  font-size: 50px;
+}
+table {
+ 
+  width: 100%;
+  border: 1px;
+  border-color: black;
+}
+#k{
+ 
+  color: rgb(153, 51, 51);
+  background-color: black;
+  font-size: 50px;
+
+}
+#l{
+  background-color: black;
+  color: rgb(138, 153, 51);
+  font-size: 50px;
+}
+#m{
+  background-color: black;
+  color: rgb(51, 153, 51);
+  font-size: 50px;
+}
+#n{
+  background-color: black;
+  color: rgb(51, 153, 148);
+  font-size: 50px;
+}
+#o{
+  background-color: black;
+  color: rgb(62, 2, 228);
+  font-size: 50px;
+}
+#p{
+  background-color: black;
+  color: rgb(255, 0, 0);
+  font-size: 50px;
+}
+#name{
+  font-family:Baskerville;
+}
